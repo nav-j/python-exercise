@@ -1,12 +1,10 @@
-
-```markdown
-# 🔢 Python Practice Task - Arithmetic Calculator
+#  Python Practice Task - Arithmetic Calculator
 
 This is a simple Python practice task to understand and use **arithmetic operators**.
 
 ---
 
-## 📝 Task Description
+##  Task Description
 
 Write a Python program that:
 
@@ -22,7 +20,7 @@ Write a Python program that:
 
 ---
 
-## 💡 Example Output
+##  Example Output
 
 ```
 
@@ -40,13 +38,13 @@ Arithmetic Operations:
 
 ---
 
-## 🎯 Objective
+## Objective
 
 The goal of this task is to practice **basic arithmetic operators in Python** and understand how they work with user input.
 
 ---
 
-## 🚀 Next Steps
+## Next Steps
 
 - Try with different input values.
 - Check how the program behaves with **negative numbers** and **decimals**.
